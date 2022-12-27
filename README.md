@@ -23,7 +23,9 @@ The project focus to put into practice knowledge gathered at [course](https://ww
 ## Screenshots
 
 ![report view power bi](screenshots/maven-market.png)
+</br>
 ![chart bars](screenshots/maven-market2.png)
+</br>
 ![mobile view](screenshots/maven-market-mobile.png)
 
 ## Setup
