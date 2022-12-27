@@ -22,6 +22,9 @@ The project focus to put into practice knowledge gathered at [course](https://ww
 
 ## Screenshots
 
+![report view power bi](screenshots/maven-market.png)
+![chart bars](screenshots/maven-market2.png)
+![mobile view](screenshots/maven-market-mobile.png)
 
 ## Setup
 Proceed to install [Power Bi Desktop](https://www.microsoft.com/en-us/download/details.aspx?id=58494) to get started with the project.
